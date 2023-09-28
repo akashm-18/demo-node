@@ -1,0 +1,1 @@
+This is the third file written by writeFileSync : Hello ! This is the First File in the Folder , Hello ! This is the Second File in the FolderThis is the third file written by writeFileSync : Hello ! This is the First File in the Folder , Hello ! This is the Second File in the Folder
